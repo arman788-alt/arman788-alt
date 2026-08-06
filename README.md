@@ -1,2 +1,2 @@
 Hello, I'm Mohammad Arman,
-I'm a backend django developer.
+I'm a Backend Django Developer.
